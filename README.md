@@ -180,10 +180,4 @@ Estrutura dos arquivos na pasta `/var/www/html/` da VM OpenVPN:
     └── <id>_cert.zip         
 ```
 
----
 
-## 🖼️ Captura de Tela
-
-### Página inicial
-
-![Tela inicial](Screenshots/1-index.png)
