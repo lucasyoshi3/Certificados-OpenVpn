@@ -1,0 +1,32 @@
+[
+    {
+        "email": "admin@gmail.com",
+        "senha": "$2y$10$k21XjVO61dMuUyZVJkhZZu5spbn5kXeWEgSwsfp7bShbep65fHGmy",
+        "nome": "Administrador Padrão",
+        "ativo": true
+    },
+    {
+        "email": "arthur.delatorre@gmail.com",
+        "nome": "Arthur Delatorre",
+        "senha": "$2y$10$bj22Do0m.PUy1fq.SHaTzOHk5DWrao1CBB4UoM29CyjTws3lHiQsi",
+        "ativo": true
+    },
+    {
+        "email": "pedro@gmail.com",
+        "nome": "Pedro Mendes",
+        "senha": "$2y$10$VARf98dCab9Fz0Qu6bpuBet7hDn8yCCanu5W86xX9j5zt\/BX935UO",
+        "ativo": true
+    },
+    {
+        "email": "roberta@gmail.com",
+        "nome": "robertaA213123@@",
+        "senha": "$2y$10$7WBMvq0spBx\/48MGxk.SEusQdE97M2stwPNZjlbN8mFFBR\/l0oAoC",
+        "ativo": true
+    },
+    {
+        "email": "maria@gmail.com",
+        "nome": "maria@gmail.com1",
+        "senha": "$2y$10$J27BZT6\/8XQsgTGOhwBWIOiYeagat7tnLZbIhPcjBYEHA.SX51BDm",
+        "ativo": true
+    }
+]
